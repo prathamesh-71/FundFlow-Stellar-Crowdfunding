@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-100 antialiased;
+    font-family: 'Inter', sans-serif;
+    background-image:
+      radial-gradient(circle at 15% 50%, rgba(56, 189, 248, 0.15), transparent 25%),
+      radial-gradient(circle at 85% 30%, rgba(139, 92, 246, 0.15), transparent 25%),
+      radial-gradient(circle at 50% 80%, rgba(16, 185, 129, 0.1), transparent 30%),
+      linear-gradient(to bottom, #020617, #020617);
+    background-attachment: fixed;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-slate-900/80;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-700/80 rounded-full;
+}
