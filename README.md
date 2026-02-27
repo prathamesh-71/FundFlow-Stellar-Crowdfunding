@@ -220,19 +220,14 @@ Errors handled:
 
 Add your own screenshots after running the app:
 
-- Wallet modal: `![alt text](<Screenshots/Screenshot 2026-02-27 012048.png>)`
-- Transactions : `![./screenshots/campaigns.png](<Screenshots/Screenshot 2026-02-27 012228.png>)`
-- Contract address : `![./screenshots/activity.png](<Screenshots/Screenshot 2026-02-27 012332.png>)`
+- Wallet modal: `<img width="1891" height="901" alt="Screenshot 2026-02-27 012048" src="https://github.com/user-attachments/assets/d30e386e-e2b2-4374-badc-9c26433cc06c" />
+`
+- Transactions : `<img width="1918" height="540" alt="Screenshot 2026-02-27 012228" src="https://github.com/user-attachments/assets/ee387b5b-357a-4084-acb7-9ff8fd3e062d" />
+`
+- Contract address : `<img width="1862" height="672" alt="Screenshot 2026-02-27 012332" src="https://github.com/user-attachments/assets/85891c0f-d7d9-46cf-a679-30f7e2820bd5" />
+`
 
 These paths are placeholders; create the `screenshots` folder and add images as needed.
-
----
-
-## Optional Demo Link
-
-If you deploy FundFlow (e.g., on Vercel or Netlify), document it here:
-
-- Demo: `https://your-demo-url.example.com` (placeholder)
 
 ---
 
